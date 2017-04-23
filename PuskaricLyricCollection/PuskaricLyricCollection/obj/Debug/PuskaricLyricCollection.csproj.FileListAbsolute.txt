@@ -1,0 +1,9 @@
+c:\users\pandahead33\documents\visual studio 2015\Projects\PuskaricLyricCollection\PuskaricLyricCollection\bin\Debug\PuskaricLyricCollection.exe.config
+c:\users\pandahead33\documents\visual studio 2015\Projects\PuskaricLyricCollection\PuskaricLyricCollection\bin\Debug\PuskaricLyricCollection.exe
+c:\users\pandahead33\documents\visual studio 2015\Projects\PuskaricLyricCollection\PuskaricLyricCollection\bin\Debug\PuskaricLyricCollection.pdb
+c:\users\pandahead33\documents\visual studio 2015\Projects\PuskaricLyricCollection\PuskaricLyricCollection\obj\Debug\PuskaricLyricCollection.csprojResolveAssemblyReference.cache
+c:\users\pandahead33\documents\visual studio 2015\Projects\PuskaricLyricCollection\PuskaricLyricCollection\obj\Debug\PuskaricLyricCollection.MyLyricForm.resources
+c:\users\pandahead33\documents\visual studio 2015\Projects\PuskaricLyricCollection\PuskaricLyricCollection\obj\Debug\PuskaricLyricCollection.Properties.Resources.resources
+c:\users\pandahead33\documents\visual studio 2015\Projects\PuskaricLyricCollection\PuskaricLyricCollection\obj\Debug\PuskaricLyricCollection.csproj.GenerateResource.Cache
+c:\users\pandahead33\documents\visual studio 2015\Projects\PuskaricLyricCollection\PuskaricLyricCollection\obj\Debug\PuskaricLyricCollection.exe
+c:\users\pandahead33\documents\visual studio 2015\Projects\PuskaricLyricCollection\PuskaricLyricCollection\obj\Debug\PuskaricLyricCollection.pdb

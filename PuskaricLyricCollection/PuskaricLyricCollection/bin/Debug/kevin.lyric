@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSongInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SongInfo>
+    <Name>You Are My Sunshine</Name>
+    <Genre>Folk</Genre>
+    <Artist>Norman Bates</Artist>
+    <Year>2000</Year>
+    <Duration>4:27</Duration>
+    <Lyrics>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil Consolas;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs19 The other night, dear, as I lay sleeping\par
+I dreamed I held you in my arms\par
+But when I awoke, dear, I was mistaken\par
+And I hung my head and cried\par
+You are my sunshine, my only sunshine\par
+You make me happy when skies are gray\par
+You'll never know, dear, how much I love you\par
+Please don't take my sunshine away\par
+I'll always love you and make you happy\par
+If you will only say the same\par
+But if you leave me and love another\par
+You'll regret it all someday\par
+You are my sunshine, my only sunshine\par
+You make me happy when skies are gray\par
+You'll never know, dear, how much I love you\par
+Please don't take my sunshine away\par
+You told me once dear, you really loved me\par
+And no one could come between\par
+But now you've left me to love another\par
+You have shattered all of my dreams\par
+You are my sunshine, my only sunshine\par
+You make me happy when skies are gray\par
+You'll never know, dear, how much I love you\par
+Please don't take my sunshine away\par
+In all my dreams, dear, you seem to leave me\par
+When I awake my poor heart pangs\par
+So won't you come back and make me happy\par
+I'll forgive, dear, I'll take all the blame\par
+You are my sunshine, my only sunshine\par
+You make me happy when skies are gray\par
+You'll never know, dear, how much I love you\par
+Please don't take my sunshine away\par
+}
+</Lyrics>
+  </SongInfo>
+  <SongInfo>
+    <Name>Altar</Name>
+    <Genre>Pop</Genre>
+    <Artist>That Poppy</Artist>
+    <Year>2016</Year>
+    <Duration>2:40</Duration>
+    <Lyrics>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\f0\fs17 [Verse 1]\par
+She'll take you straight to the bank\par
+Don't marry that gutter skank\par
+I know the pressure is high and she's gonna cry\par
+But that old news needs to die\par
+\par
+[Chorus]\par
+You're standing at the altar baby\par
+I'm coming straight for you\par
+The getaway car is waiting and we'll ride into the blue\par
+Church bells don't ring, church bells don't ring too soon\par
+You're standing at the altar, I'm coming for you\par
+\par
+[Verse 2]\par
+I know that she has a gun, it's an emotional one\par
+And in your vulnerable state, she loves to manipulate\par
+And when you're weak and in pain, she comes around again\par
+\par
+[Chorus]\par
+You're standing at the altar baby\par
+I'm coming straight for you\par
+The getaway car is waiting and we'll ride into the blue\par
+Church bells don't ring, church bells don't ring to stone\par
+You're standing at the altar, I'm coming for you\par
+\par
+[Bridge]\par
+She'll never love you like I love you\par
+Cause we were born to be together babe\par
+So don't you leave me for another\par
+Don't say "I do"\par
+You're standing at the altar baby\par
+I'm coming straight for you\par
+\par
+[Chorus]\par
+You're standing at the altar baby\par
+I'm coming straight for you\par
+The getaway car is waiting and we'll ride into the blue\par
+Church bells don't ring, church bells don't ring to stone\par
+You're standing at the altar, I'm coming for you\par
+}
+</Lyrics>
+  </SongInfo>
+</ArrayOfSongInfo>
